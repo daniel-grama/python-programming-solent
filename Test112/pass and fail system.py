@@ -1,3 +1,4 @@
+#Pass and fail system
 for i in range(5):
     mark = int(input("Enter mark: "))
     if mark >= 50:
